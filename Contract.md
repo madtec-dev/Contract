@@ -9,8 +9,7 @@
   development work, a conference talk.
 * **‘You’** refers to the client or company on behalf of whom The Work is
   commissioned.
-* **‘I’** refers to me, Harry Roberts, working for You on behalf of CSS Wizardry
-  Ltd.
+* **‘Us’** refers to us, Madtec, working for You on behalf of that company.
 
 ## About this document
 
@@ -44,7 +43,7 @@ Now, let’s do great work together!
 
 ## Involved parties
 
-**Harry Roberts, ‘CSS Wizardry’, ‘I’:**
+**Madtec, ‘Us’:**
 
 [Address]
 
@@ -126,12 +125,12 @@ priced separately to the scope of The Work.
 
 ## Payment
 
-Being a small business, cash flow is very important to CSS Wizardry. As such, it
+Being a small business, cash flow is very important to Madtec. As such, it
 is asked that You meet the payment terms outlined below.
 
 ### Deposit
 
-An upfront deposit of 50% is required before commencing with any agreed work.
+An upfront deposit of 30% is required before commencing with any agreed work.
 This deposit is non-refundable and will only be paid once a fixed scope has been
 set, and we are confident that we wish to work together to these agreed terms.
 No deposit shall be taken until You are completely happy with, and clear about,
@@ -141,7 +140,7 @@ soon as the deposit is received.
 ### Payment terms
 
 Once a project is deemed complete, an invoice shall be raised for the remaining
-50% of the project cost, along with any other incidental costs (see _Expenses_).
+70% of the project cost, along with any other incidental costs (see _Expenses_).
 The remaining balance shall be paid within 14 days of it being invoiced.
 
 ### Expenses
@@ -159,7 +158,7 @@ and after The Work.
 The undersigned confirm that they have read, understood, and shall adhere to the
 terms laid out in this document:
 
-* **Harry Roberts:**
+* **Madtec:**
 * **Date:**
 
 * **You:**
